@@ -1,1 +1,1 @@
-{"ucp":{"version":"2026-08-25","services":{},"payment_handlers":{},"capabilities":{"dev.ucp.shopping.catalog.search":{},"dev.ucp.shopping.catalog.lookup":{},"dev.ucp.shopping.catalog.product":{},"dev.ucp.shopping.cart":{},"dev.ucp.shopping.checkout":{},"dev.ucp.shopping.order":{},"dev.ucp.shopping.discounts":{},"dev.ucp.shopping.fulfillment":{}}}}
+{"ucp":{"version":"2026-08-25","services":{},"payment_handlers":{},"capabilities":{"dev.ucp.shopping.catalog.search":{"version":"2026-08-25"}}}}
